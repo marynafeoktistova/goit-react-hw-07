@@ -10,5 +10,5 @@ export const initialStateFilter = {
 
 export const initialValues = {
   name: '',
-  phone: '',
+  number: '',
 };
