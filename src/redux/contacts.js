@@ -1,5 +1,7 @@
 export const initialStateContacts = {
   items: [],
+  isLoading: false,
+  error: null,
 };
 
 export const initialStateFilter = {
@@ -8,5 +10,5 @@ export const initialStateFilter = {
 
 export const initialValues = {
   name: '',
-  number: '',
+  phone: '',
 };
